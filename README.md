@@ -1,7 +1,8 @@
 # Airbnb-Experience-Clone
 
 This project is a clone of airbnb online experiences page  
-
+Deployed on netlify 
+Live :- https://airbnb-ex-clone-pardhu.netlify.app/
 
 
  ## Topics learned through this project
